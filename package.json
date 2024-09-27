@@ -17,7 +17,7 @@
   "dependencies": {
     "@vitejs/plugin-vue": "^5.1.2",
     "autoprefixer": "^10.4.20",
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "mongodb": "^6.8.0",
     "nodejs-base64": "^2.0.0",
     "postcss": "^8.4.41",
